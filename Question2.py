@@ -5,7 +5,7 @@ print(dog)
 dog = {"name": "brownie", "color": "brown", "breed": "chow-chow", "legs": "4", "age": "3"}
 print("The updated dog dictionary:", dog)
 # creating a student dictionary
-student = {"first_name": "Suraj", "Last_name": "Gamini", "gender": "male", "age": "22", "marital_status": "single", "skills": ["Programming"], "Country": "India", "City": "Tanuku", "address": "ws/dw/12"}
+student = {"first_name": "Varshik", "Last_name": "Mankala", "gender": "male", "age": "22", "marital_status": "single", "skills": ["Programming"], "Country": "India", "City": "Tanuku", "address": "ws/dw/12"}
 student1 = student.keys()
 print("The keys of dictionary student is:", student1)
 # Length of student dictionary
