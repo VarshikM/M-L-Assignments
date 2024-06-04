@@ -1,12 +1,7 @@
-# Machine-Learning-Assignments
-## Table of Contents
-- [ML Assignment 1](https://github.com/SurajGamini18/Machine-Learning-Assignments/tree/main/Assignment-1%20src)
-- [ML Assignment 2](https://github.com/SurajGamini18/Machine-Learning-Assignments/tree/main/Assignment-%202%20src)
+# Machine-Learning-AssignmentsStudent Details:
 ## Student Details:
-### Student Id: 700744962
-### Name: Venkata Suraj Gamini
-### CRN: 23922
-### University Of Central Missouri
+### Student Id: 700757487
+### Name:Varshik Mankala
 
 
 ## Short Description of Assignment 2:
