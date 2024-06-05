@@ -14,7 +14,7 @@ Machine Learning Assignment 2 is about implementing the following concepts.
   
 ## Document
 Document describing about Assignment 2
-[Document](https://docs.google.com/document/d/1mJ8Iyplzn8-jGVT8GgT-55vzVA6RsA3E/edit?usp=share_link&ouid=115006250578410786078&rtpof=true&sd=true)
+[Document](https://docs.google.com/document/d/1Q9VjXUBk6bWvyXt5dA2LwwihbiiyppAh/edit?usp=sharing&ouid=108874816357681756431&rtpof=true&sd=true)
 
 ## Video
 Video on demonstrating the Assignment 2
